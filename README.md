@@ -1,6 +1,6 @@
 # Python CSV Analyzer
 
-A lightweight, dependency-free Python tool to analyze CSV files and generate statistical reports.
+A nice lightweight, dependency-free Python tool to analyze CSV files and generate statistical reports.
 
 ## Features
 
