@@ -2,7 +2,7 @@
 
 A nice lightweight, dependency-free Python tool to analyze CSV files and generate statistical reports.
 
-## Features :
+## Features 
 
 - **Row & Column Counting**: Get instant feedback on dataset size.
 - **Type Inference**: Automatically detects if a column is numeric (`int`, `float`) or categorical (`str`).
