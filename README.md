@@ -10,7 +10,7 @@ A nice lightweight, dependency-free Python tool to analyze CSV files and generat
 - **Categorical Insights**: Shows unique value counts and the top 3 most frequent entries.
 - **Null Detection**: Tracks missing values per column.
 
-## How It Works (Parsing Explanation
+## How It Works (Parsing Explanation)
 
 The core logic of this analyzer relies on Python's built-in `csv` module, specifically the `csv.DictReader`.
 
